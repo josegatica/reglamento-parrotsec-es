@@ -7,14 +7,16 @@
 	· Documentación online (https://docs.parrotsec-es.org/)<br>
 	· Grupo de Telegram (https://t.me/ParrotSpanishGroup)<br>
 
-Cada uno con su función definida:
+Cada uno con su función definida:<br>
 	· <b>FORO:</b> Aclarar dudas y obtener coluciones que puedan servir a
-	futuro como material de ayuda a otros miembros.
+	futuro como material de ayuda a otros miembros.<br>
 	· <b>DOCUMENTACIÓN:</b> Ser la guía con información actualizada acerca
 	distintos ítems referentes a ParrotSec, desde su instalación hasta
-	el uso de herramientas preinstaladas.
+	el uso de herramientas preinstaladas.<br>
 	· <b>GRUPO DE TELEGRAM:</b> Punto de encuentro de todos los usuarios y
 	miembros de habla hispana de ParrotSec.
+	
+<hr>
 
 El equipo directivo de Parrot Security OS en español se compone de las siguientes personas:
 - José Gatica (Director de proyecto ParrotSec-ES)
