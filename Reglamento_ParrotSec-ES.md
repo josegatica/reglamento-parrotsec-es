@@ -2,10 +2,10 @@
 
 - Crear y mantener una documentación robusta y actualizada para cada edición.
 - Ser el soporte para los usuarios de habla hispana.
-- Aprovechar los espacios destinados a nuestra comunidad, tales como: 		
-	· FORO (https://community.parrotsec.org/viewforum.php?id=25)
-	· Documentación online (https://docs.parrotsec-es.org/)
-	· Grupo de Telegram (https://t.me/ParrotSpanishGroup)
+- Aprovechar los espacios destinados a nuestra comunidad, tales como:<br> 		
+	· FORO (https://community.parrotsec.org/viewforum.php?id=25)<br>
+	· Documentación online (https://docs.parrotsec-es.org/)<br>
+	· Grupo de Telegram (https://t.me/ParrotSpanishGroup)<br>
 
 Cada uno con su función definida:
 	· <b>FORO:</b> Aclarar dudas y obtener coluciones que puedan servir a
