@@ -41,7 +41,7 @@ Además, los siguientes puntos resumen a grosso modo las reglas para poder convi
 - Respeto.
 - Evitar pedir asesoría para otras distros o sistemas operativos que no sean Parrot Security OS. Para evitar preguntar por el motivo de este ítem, te invito a ir al chat de Debian y preguntar por ParrotSec. Cada distro tiene su propio soporte, y este grupo da soporte para ParrotSec.
 - Evitar el vocabulario vulgar para dirigirnos a otros miembros de la comunidad.
-- No hacer spam con links ajenos a la temática central del grupo (ParrotSec)
+- No hacer spam con links ajenos a la temática central del grupo (ParrotSec o GNU/Linux - Seguridad, Anonimato, etc.)
 - NO ACEPTAMOS TROLLS dentro de nuestra comunidad. Si alguien es molesto para el grupo con su actitud, se le advertirá dos veces. La tercera vez no se avisará y la persona molesta solo verá que de pronto no podrá entrar al chat del grupo.
 - No tenemos jefes, sino líderes. Si te comprometes con uno de ellos en alguna labor, CUMPLE, no por ellos sino por la comunidad y su avance en su objetivo por crear una buena documentación.
 - Si hay algo que debas decir de algún miembro de nuestra comunidad, pues comunícate con él o ella por medio de un mensaje privado.
