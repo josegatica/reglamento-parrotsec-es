@@ -18,13 +18,19 @@ Cada uno con su función definida:<br>
 	
 <hr>
 
-El equipo directivo de Parrot Security OS en español se compone de las siguientes personas:
+El <b>equipo directivo</b> de Parrot Security OS en español se compone de las siguientes personas:
 - José Gatica (Director de proyecto ParrotSec-ES)
 - Selinex Tapia (Directora de Documentación)
 - Claudio Marcial (Director equipo web)
 - Alejandro Pineda (Diseño ParrotSec-ES)
 
-Nos basamos en <i>dos fundamentos primordiales</i>: a) El respeto mútuo, y b) El aprendizaje es un proceso que nunca termina.
+<hr>
+
+<h1>Reglamento</h1>
+
+Nos basamos en <b><u>dos fundamentos primordiales</u></b>:<br>
+a) El respeto mútuo, y<br>
+b) El aprendizaje es un proceso que nunca termina.
 
 Es por lo mismo que acogemos usuarios novatos no sólo en Parrot, sino también en el uso de GNU/Linux y buscamos encaminarlos correctamente para llegar a aprender técnicas de seguridad informática.
 Además, los siguientes puntos resumen a grosso modo las reglas para poder convivir en comunidad:
