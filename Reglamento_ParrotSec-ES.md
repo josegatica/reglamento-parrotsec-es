@@ -8,7 +8,7 @@
 	· Grupo de Telegram (https://t.me/ParrotSpanishGroup)<br>
 
 Cada uno con su función definida:<br>
-	· <b>FORO:</b> Aclarar dudas y obtener coluciones que puedan servir a
+	· <b>FORO:</b> Aclarar dudas y obtener soluciones que puedan servir a
 	futuro como material de ayuda a otros miembros.<br>
 	· <b>DOCUMENTACIÓN:</b> Ser la guía con información actualizada acerca
 	distintos ítems referentes a ParrotSec, desde su instalación hasta
