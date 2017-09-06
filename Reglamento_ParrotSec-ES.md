@@ -25,7 +25,7 @@ El <b>equipo directivo</b> de Parrot Security OS en español se compone de las s
 - Alejandro Pineda (Diseño ParrotSec-ES)
 - Raúl Alderete (Material Audiovisual)
 <br>
-- Lorenzo "palinuro" Faletra (Director y Desarrollador Parrot Security OS)
+<b>Lorenzo "palinuro" Faletra</b> (Director y Desarrollador Parrot Security OS)
 
 <hr>
 
