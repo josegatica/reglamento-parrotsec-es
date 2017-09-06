@@ -45,5 +45,5 @@ Además, los siguientes puntos resumen a grosso modo las reglas para poder convi
 - NO ACEPTAMOS TROLLS dentro de nuestra comunidad. Si alguien es molesto para el grupo con su actitud, se le advertirá dos veces. La tercera vez no se avisará y la persona molesta solo verá que de pronto no podrá entrar al chat del grupo.
 - No tenemos jefes, sino líderes. Si te comprometes con uno de ellos en alguna labor, CUMPLE, no por ellos sino por la comunidad y su avance en su objetivo por crear una buena documentación.
 - Si hay algo que debas decir de algún miembro de nuestra comunidad, pues comunícate con él o ella por medio de un mensaje privado.
-- No respaldamos el hacking como un juego. Todo lo que hacemos es con intereses didácticos y para aprendizaje de todos. No avalaremos por lo tanto a alguien que quiera hackear a algún servidor o cometer actos de delincuencia.
+- No respaldamos el hacking como un juego (ser experto es algo que conlleva una gran responsabilidad). Todo lo que hacemos es con intereses didácticos y para aprendizaje de todos. No avalaremos por lo tanto a alguien que quiera vulnerar algún servidor o cometer actos de delincuencia.
 
