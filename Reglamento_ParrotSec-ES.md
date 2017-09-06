@@ -11,7 +11,7 @@ Cada uno con su función definida:<br>
 	· <b>FORO:</b> Aclarar dudas y obtener soluciones que puedan servir a
 	futuro como material de ayuda a otros miembros.<br>
 	· <b>DOCUMENTACIÓN:</b> Ser la guía con información actualizada acerca
-	distintos ítems referentes a ParrotSec, desde su instalación hasta
+	de distintos ítems referentes a ParrotSec, desde su instalación hasta
 	el uso de herramientas preinstaladas.<br>
 	· <b>GRUPO DE TELEGRAM:</b> Punto de encuentro de todos los usuarios y
 	miembros de habla hispana de ParrotSec.
