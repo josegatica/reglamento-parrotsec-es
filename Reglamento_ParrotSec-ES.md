@@ -28,7 +28,7 @@ El <b>equipo directivo</b> de Parrot Security OS en español se compone de las s
 
 <h1>Reglamento</h1>
 
-Nos basamos en <b><u>dos fundamentos primordiales</u></b>:<br>
+Nos basamos en <u>dos fundamentos primordiales</u>:<br>
 a) El respeto mútuo, y<br>
 b) El aprendizaje es un proceso que nunca termina.
 
