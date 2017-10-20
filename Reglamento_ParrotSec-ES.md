@@ -47,3 +47,5 @@ Además, los siguientes puntos resumen a grosso modo las reglas para poder convi
 - Si hay algo que debas decir de algún miembro de nuestra comunidad, pues comunícate con él o ella por medio de un mensaje privado y que de ahí no salga.
 - No respaldamos el hacking como un juego (ser experto es algo que conlleva una gran responsabilidad). Todo lo que hacemos es con intereses didácticos y para aprendizaje de todos. <b>No avalaremos por lo tanto a alguien que quiera vulnerar algún servidor o cometer actos de delincuencia.</b>
 
+<h1>Prohibido doxear, será causal de salida inmediata</h1>
+<h3>¿Cómo podemos confiar en alguien así? No somos delincuentes y sólo lo aplicaremos en casos justificados.</h3>
