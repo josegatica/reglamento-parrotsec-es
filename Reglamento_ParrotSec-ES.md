@@ -43,7 +43,7 @@ Además, los siguientes puntos resumen a grosso modo las reglas para poder convi
 - Evitar el vocabulario vulgar para dirigirnos a otros miembros de la comunidad.
 - No hacer spam con links ajenos a la temática central del grupo (TEMAS permitidos ==> ParrotSec o GNU/Linux - Seguridad, Anonimato, etc.)
 - NO ACEPTAMOS TROLLS dentro de nuestra comunidad. Si alguien es molesto para el grupo con su actitud, se le advertirá dos veces. La tercera vez no se avisará y la persona molesta solo verá que de pronto no podrá entrar al chat del grupo.
-- <b>No nos parece chiste responder a los novatos con 'rm -rf /', es de muy mal gusto.</b> Si quieres salir de la comunidad, mejor hazlo por la puerta ancha.
+- <b>No nos parece chiste responder a los novatos con 'rm -rf /*', es de muy mal gusto.</b> Si quieres salir de la comunidad, mejor hazlo por la puerta ancha.
 - No tenemos jefes, sino líderes. Si te comprometes con uno de ellos en alguna labor, CUMPLE, no por ellos sino por la comunidad y su avance en su objetivo por crear una buena documentación.
 - Si hay algo que debas decir de algún miembro de nuestra comunidad, pues comunícate con él o ella por medio de un mensaje privado y que de ahí no salga.
 - No respaldamos el hacking como un juego (ser experto es algo que conlleva una gran responsabilidad). Todo lo que hacemos es con intereses didácticos y para aprendizaje de todos. <b>No avalaremos por lo tanto a alguien que quiera vulnerar algún servidor o cometer actos de delincuencia.</b>
